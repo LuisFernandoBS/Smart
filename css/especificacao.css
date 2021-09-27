@@ -1,0 +1,18 @@
+.uk-button{
+    font-size:1rem;
+    width: 50%;
+}
+.uk-button-success{
+    color: darkslategray;
+    background-color: mediumspringgreen;
+}
+.uk-button-success:hover{
+    background-color: rgb(3, 214, 133);
+}
+.uk-button-back:hover{
+    background-color: #0ab6d8!important;
+}
+#Botoes{
+    position: fixed!important;
+    bottom: 0px!important;
+}

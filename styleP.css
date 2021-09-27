@@ -1,0 +1,41 @@
+body{
+    padding: 1%;
+}
+h3{
+    font-size:small;
+}
+#Modelo_Card{
+    display:none;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+#Btn_Lista{
+    position: fixed;
+    bottom:25px;
+    right:25px;
+    border-radius: 40px;
+    background-image: url("IMG/icon/002-clipboard.png");    
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+  }
+#Btn_Cancelar{
+    position: fixed;    
+    top:15px;
+    right:15px;
+    border-radius: 40px;
+    background-image: url("IMG/icon/001-cancel.png");
+    background-position: center;
+    width: 42px;
+    height: 60px;
+  }
+  #Aba{
+      background-color: steelblue;
+  }
+  .Status{
+    width: 15px;
+    height: 18px;
+  }

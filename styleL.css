@@ -1,0 +1,40 @@
+#login {
+    border: aqua 1px solid;
+    width: 30%;
+    text-align: center;
+    display: block;
+    border-radius: 12px;
+}
+.lin {
+    margin: 3%;
+}
+#cabecalho{
+    top: 15%
+}
+#registro {
+    border: aqua 1px solid;
+    width: 40%;
+    text-align: center;
+    display: none;
+    border-radius: 12px;
+}
+#Entrar{
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    margin: 1%;
+}
+#Cadastro{
+    border-radius: 20px;
+}
+
+#Cadastrar{
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    margin: 1%;
+}
+.campos{
+    border: solid 1px #708090;
+    border-radius: 8px; 
+}
